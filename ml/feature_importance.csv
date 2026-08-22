@@ -1,0 +1,256 @@
+Class,Feature,Coefficient,Absolute Importance
+Mild,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Not at all,-2.9997358697289656,2.9997358697289656
+Mild,categorical__Poor appetite or overeating_Not at all,-2.9993325741151438,2.9993325741151438
+Mild,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Nearly every day,2.9987130851329646,2.9987130851329646
+Mild,categorical__Poor appetite or overeating_Nearly every day,2.998556851762993,2.998556851762993
+Mild,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Not at all",-2.4998559334757964,2.4998559334757964
+Mild,"categorical__Feeling down, depressed, or hopeless_Not at all",-2.4998160355611745,2.4998160355611745
+Mild,categorical__Feeling tired or having little energy_Not at all,-2.4996290465649373,2.4996290465649373
+Mild,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_More than half the days,2.0004972571056534,2.0004972571056534
+Mild,categorical__Little interest or pleasure in doing things_Not at all,-2.0002751310512465,2.0002751310512465
+Mild,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Not at all,-2.000165250481647,2.000165250481647
+Mild,"categorical__Trouble falling or staying asleep, or sleeping too much_Not at all",-1.9997843251557832,1.9997843251557832
+Mild,"categorical__Trouble falling or staying asleep, or sleeping too much_More than half the days",1.9997322161104853,1.9997322161104853
+Mild,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Not at all,-1.999323653511972,1.999323653511972
+Mild,categorical__Little interest or pleasure in doing things_More than half the days,1.9992883406219466,1.9992883406219466
+Mild,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_More than half the days,1.9989507231814034,1.9989507231814034
+Mild,"categorical__Feeling down, depressed, or hopeless_More than half the days",1.5003642296285031,1.5003642296285031
+Mild,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Nearly every day",1.500359467144071,1.500359467144071
+Mild,categorical__Feeling tired or having little energy_More than half the days,1.5002003197349296,1.5002003197349296
+Mild,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_More than half the days",1.4996798739715649,1.4996798739715649
+Mild,"categorical__Feeling down, depressed, or hopeless_Nearly every day",1.4991084069032676,1.4991084069032676
+Mild,categorical__Feeling tired or having little energy_Nearly every day,1.4990288403396548,1.4990288403396548
+Mild,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_More than half the days,1.0006402534458854,1.0006402534458854
+Mild,categorical__Poor appetite or overeating_More than half the days,1.000371262069947,1.000371262069947
+Mild,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Several days,-0.9996174688498876,0.9996174688498876
+Mild,categorical__Poor appetite or overeating_Several days,-0.9995955397178005,0.9995955397178005
+Mild,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Several days",-0.500183407639847,0.500183407639847
+Mild,"categorical__Feeling down, depressed, or hopeless_Several days",-0.4996566009706065,0.4996566009706065
+Mild,categorical__Feeling tired or having little energy_Several days,-0.49960011350965416,0.49960011350965416
+Mild,categorical__Little interest or pleasure in doing things_Nearly every day,0.0013818420587362558,0.0013818420587362558
+Mild,categorical__Study Pressure_Bad,0.0006919149276658487,0.0006919149276658487
+Mild,categorical__Study Pressure_Worst,-0.0005131675639851174,0.0005131675639851174
+Mild,categorical__Little interest or pleasure in doing things_Several days,-0.00039505162944308836,0.00039505162944308836
+Mild,categorical__Sleep Quality_Good,-0.00035749526790240793,0.00035749526790240793
+Mild,categorical__Sleep Quality_Worst,0.00035356698267205813,0.00035356698267205813
+Mild,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Several days,-0.00033200662401000613,0.00033200662401000613
+Mild,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Nearly every day,0.00024726610335705534,0.00024726610335705534
+Mild,categorical__Gender_Male,-0.00019202024112274785,0.00019202024112274785
+Mild,categorical__Gender_Female,0.00019202024111741878,0.00019202024111741878
+Mild,categorical__Sleep Quality_Bad,0.00018602707364223647,0.00018602707364223647
+Mild,categorical__Sleep Quality_Average,-0.00018209878842334604,0.00018209878842334604
+Mild,categorical__Financial Pressure_Worst,-0.00014558476866621817,0.00014558476866621817
+Mild,categorical__Study Pressure_Average,-0.00014281845517771785,0.00014281845517771785
+Mild,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Several days,0.00012566422720183823,0.00012566422720183823
+Mild,categorical__Financial Pressure_Bad,8.444382123951044e-05,8.444382123951044e-05
+Mild,numeric__Age,-7.23819018055849e-05,7.23819018055849e-05
+Mild,categorical__Financial Pressure_Average,7.066839244274092e-05,7.066839244274092e-05
+Mild,"categorical__Trouble falling or staying asleep, or sleeping too much_Several days",5.2109045288517564e-05,5.2109045288517564e-05
+Mild,categorical__Study Pressure_Good,-3.59289085132275e-05,3.59289085132275e-05
+Mild,categorical__Financial Pressure_Good,-9.527445012480484e-06,9.527445012480484e-06
+Mild,"categorical__Trouble falling or staying asleep, or sleeping too much_Nearly every day",0.0,0.0
+Mild,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Nearly every day,0.0,0.0
+Minimal,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Nearly every day,-2.7525339937138726,2.7525339937138726
+Minimal,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Nearly every day,-2.6020974345044987,2.6020974345044987
+Minimal,categorical__Little interest or pleasure in doing things_Nearly every day,-2.513625285886242,2.513625285886242
+Minimal,"categorical__Trouble falling or staying asleep, or sleeping too much_Nearly every day",-2.4517789315648972,2.4517789315648972
+Minimal,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Not at all,2.330115099204658,2.330115099204658
+Minimal,"categorical__Feeling down, depressed, or hopeless_Nearly every day",-2.3292878467970493,2.3292878467970493
+Minimal,categorical__Little interest or pleasure in doing things_Not at all,2.2879833183068463,2.2879833183068463
+Minimal,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Not at all,2.2664296937435395,2.2664296937435395
+Minimal,"categorical__Trouble falling or staying asleep, or sleeping too much_Not at all",2.243797756259788,2.243797756259788
+Minimal,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Not at all,2.1490649945457463,2.1490649945457463
+Minimal,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Nearly every day,-1.9068594635743026,1.9068594635743026
+Minimal,categorical__Poor appetite or overeating_Not at all,1.8488621546796633,1.8488621546796633
+Minimal,"categorical__Feeling down, depressed, or hopeless_Not at all",1.8058032400895172,1.8058032400895172
+Minimal,categorical__Feeling tired or having little energy_Not at all,1.7552526830405588,1.7552526830405588
+Minimal,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Not at all",1.7082063491254829,1.7082063491254829
+Minimal,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Nearly every day",-1.698753588759165,1.698753588759165
+Minimal,categorical__Poor appetite or overeating_More than half the days,-1.3053795368685233,1.3053795368685233
+Minimal,categorical__Feeling tired or having little energy_Nearly every day,-1.213711778458575,1.213711778458575
+Minimal,categorical__Study Pressure_Worst,-1.1339561340105533,1.1339561340105533
+Minimal,categorical__Little interest or pleasure in doing things_Several days,0.8943085305275389,0.8943085305275389
+Minimal,categorical__Poor appetite or overeating_Nearly every day,-0.8814738788892149,0.8814738788892149
+Minimal,categorical__Feeling tired or having little energy_More than half the days,-0.8635743872399413,0.8635743872399413
+Minimal,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_More than half the days",-0.8437416431059113,0.8437416431059113
+Minimal,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Several days",0.8342888827396102,0.8342888827396102
+Minimal,"categorical__Feeling down, depressed, or hopeless_Several days",0.8076574951655928,0.8076574951655928
+Minimal,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_More than half the days,-0.7815814168040296,0.7815814168040296
+Minimal,categorical__Study Pressure_Good,0.726797950670365,0.726797950670365
+Minimal,categorical__Little interest or pleasure in doing things_More than half the days,-0.6686665629481308,0.6686665629481308
+Minimal,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Several days,0.6542003553685571,0.6542003553685571
+Minimal,"categorical__Trouble falling or staying asleep, or sleeping too much_Several days",0.5857377626607665,0.5857377626607665
+Minimal,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Several days,0.5393758858326017,0.5393758858326017
+Minimal,categorical__Financial Pressure_Good,0.44635204817411633,0.44635204817411633
+Minimal,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_More than half the days,-0.38221802006869865,0.38221802006869865
+Minimal,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Several days,0.38096705308949375,0.38096705308949375
+Minimal,"categorical__Trouble falling or staying asleep, or sleeping too much_More than half the days",-0.37775658735563944,0.37775658735563944
+Minimal,categorical__Financial Pressure_Bad,-0.3726513685158537,0.3726513685158537
+Minimal,categorical__Sleep Quality_Worst,-0.36003931628982055,0.36003931628982055
+Minimal,categorical__Poor appetite or overeating_Several days,0.3379912610780895,0.3379912610780895
+Minimal,categorical__Feeling tired or having little energy_Several days,0.32203348265796805,0.32203348265796805
+Minimal,categorical__Financial Pressure_Worst,-0.2892101587344933,0.2892101587344933
+Minimal,"categorical__Feeling down, depressed, or hopeless_More than half the days",-0.28417288845804745,0.28417288845804745
+Minimal,categorical__Sleep Quality_Good,0.24077446080876008,0.24077446080876008
+Minimal,categorical__Study Pressure_Average,0.22714683193782648,0.22714683193782648
+Minimal,categorical__Financial Pressure_Average,0.21550947907624796,0.21550947907624796
+Minimal,categorical__Study Pressure_Bad,0.18001135140237245,0.18001135140237245
+Minimal,categorical__Sleep Quality_Average,0.15403728620740864,0.15403728620740864
+Minimal,numeric__Age,-0.1210149092436712,0.1210149092436712
+Minimal,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_More than half the days,0.10513724688085269,0.10513724688085269
+Minimal,categorical__Gender_Female,0.06954670280551412,0.06954670280551412
+Minimal,categorical__Gender_Male,-0.0695467028054999,0.0695467028054999
+Minimal,categorical__Sleep Quality_Bad,-0.03477243072633085,0.03477243072633085
+Moderate,categorical__Poor appetite or overeating_Not at all,0.552447301549147,0.552447301549147
+Moderate,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Not at all,0.5411995124859061,0.5411995124859061
+Moderate,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Not at all",0.5372013262549671,0.5372013262549671
+Moderate,categorical__Poor appetite or overeating_Nearly every day,-0.5179929863931628,0.5179929863931628
+Moderate,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Not at all,0.515832953218877,0.515832953218877
+Moderate,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Nearly every day",-0.5060273105234118,0.5060273105234118
+Moderate,categorical__Little interest or pleasure in doing things_Not at all,0.5053709808397551,0.5053709808397551
+Moderate,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Nearly every day,-0.5001254899508132,0.5001254899508132
+Moderate,categorical__Feeling tired or having little energy_Not at all,0.4888994276998402,0.4888994276998402
+Moderate,"categorical__Trouble falling or staying asleep, or sleeping too much_Nearly every day",-0.48616900219988696,0.48616900219988696
+Moderate,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Nearly every day,-0.47666861587669285,0.47666861587669285
+Moderate,"categorical__Trouble falling or staying asleep, or sleeping too much_Not at all",0.4577076178656229,0.4577076178656229
+Moderate,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Not at all,0.4543807516938929,0.4543807516938929
+Moderate,categorical__Little interest or pleasure in doing things_Nearly every day,-0.4146607230024783,0.4146607230024783
+Moderate,"categorical__Feeling down, depressed, or hopeless_Nearly every day",-0.378700463690432,0.378700463690432
+Moderate,"categorical__Feeling down, depressed, or hopeless_Not at all",0.3772516525716519,0.3772516525716519
+Moderate,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Nearly every day,-0.37261391313206055,0.37261391313206055
+Moderate,categorical__Feeling tired or having little energy_Nearly every day,-0.3608712278045523,0.3608712278045523
+Moderate,"categorical__Trouble falling or staying asleep, or sleeping too much_Several days",0.2549838687208893,0.2549838687208893
+Moderate,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_More than half the days,-0.2541273360739911,0.2541273360739911
+Moderate,"categorical__Trouble falling or staying asleep, or sleeping too much_More than half the days",-0.22652248438662514,0.22652248438662514
+Moderate,categorical__Little interest or pleasure in doing things_More than half the days,-0.22197263028478564,0.22197263028478564
+Moderate,categorical__Feeling tired or having little energy_More than half the days,-0.20371974635779722,0.20371974635779722
+Moderate,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_More than half the days,-0.18207834819991198,0.18207834819991198
+Moderate,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Several days,0.17236049751215876,0.17236049751215876
+Moderate,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_More than half the days",-0.15583707465235264,0.15583707465235264
+Moderate,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_More than half the days,-0.15450432154209048,0.15450432154209048
+Moderate,categorical__Poor appetite or overeating_More than half the days,-0.1428262875982066,0.1428262875982066
+Moderate,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Several days,0.1410043256648188,0.1410043256648188
+Moderate,categorical__Little interest or pleasure in doing things_Several days,0.13126237244750893,0.13126237244750893
+Moderate,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Several days",0.12466305892079754,0.12466305892079754
+Moderate,categorical__Study Pressure_Good,0.12230888728719513,0.12230888728719513
+Moderate,categorical__Financial Pressure_Average,0.12229918221662162,0.12229918221662162
+Moderate,"categorical__Feeling down, depressed, or hopeless_Several days",0.1162374792008466,0.1162374792008466
+Moderate,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Several days,0.11533998419990649,0.11533998419990649
+Moderate,"categorical__Feeling down, depressed, or hopeless_More than half the days",-0.11478866808206623,0.11478866808206623
+Moderate,categorical__Financial Pressure_Bad,-0.11173920505518242,0.11173920505518242
+Moderate,categorical__Poor appetite or overeating_Several days,0.10837197244222252,0.10837197244222252
+Moderate,categorical__Study Pressure_Worst,-0.10194845708740004,0.10194845708740004
+Moderate,categorical__Sleep Quality_Worst,-0.09559978389661904,0.09559978389661904
+Moderate,categorical__Study Pressure_Bad,-0.08934932209900248,0.08934932209900248
+Moderate,categorical__Sleep Quality_Average,0.08899504069407327,0.08899504069407327
+Moderate,categorical__Feeling tired or having little energy_Several days,0.07569154646250931,0.07569154646250931
+Moderate,categorical__Study Pressure_Average,0.06898889189920743,0.06898889189920743
+Moderate,categorical__Financial Pressure_Worst,-0.0587908972751951,0.0587908972751951
+Moderate,categorical__Financial Pressure_Good,0.04823092011375618,0.04823092011375618
+Moderate,categorical__Gender_Female,-0.020887792091554336,0.020887792091554336
+Moderate,categorical__Gender_Male,0.020887792091554003,0.020887792091554003
+Moderate,categorical__Sleep Quality_Bad,0.010667115742609812,0.010667115742609812
+Moderate,categorical__Sleep Quality_Good,-0.004062372540063919,0.004062372540063919
+Moderate,numeric__Age,-0.001246884988132857,0.001246884988132857
+Moderately severe,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Nearly every day",-0.29942935869107956,0.29942935869107956
+Moderately severe,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Not at all,0.28259862610770753,0.28259862610770753
+Moderately severe,categorical__Poor appetite or overeating_Nearly every day,-0.2762378740556453,0.2762378740556453
+Moderately severe,categorical__Poor appetite or overeating_Not at all,0.2758975502628508,0.2758975502628508
+Moderately severe,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Nearly every day,-0.2663869632611105,0.2663869632611105
+Moderately severe,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Nearly every day,-0.2642580845021332,0.2642580845021332
+Moderately severe,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Not at all",0.2562408454663285,0.2562408454663285
+Moderately severe,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Not at all,0.24873720420760753,0.24873720420760753
+Moderately severe,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Not at all,0.24034162815575916,0.24034162815575916
+Moderately severe,"categorical__Feeling down, depressed, or hopeless_Nearly every day",-0.23342685343070002,0.23342685343070002
+Moderately severe,"categorical__Trouble falling or staying asleep, or sleeping too much_Nearly every day",-0.23212682334047288,0.23212682334047288
+Moderately severe,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Nearly every day,-0.2274370641751216,0.2274370641751216
+Moderately severe,categorical__Little interest or pleasure in doing things_Not at all,0.21706447892520309,0.21706447892520309
+Moderately severe,categorical__Feeling tired or having little energy_Not at all,0.20276677434439994,0.20276677434439994
+Moderately severe,"categorical__Feeling down, depressed, or hopeless_Not at all",0.20029216676601247,0.20029216676601247
+Moderately severe,"categorical__Trouble falling or staying asleep, or sleeping too much_Not at all",0.19438791840859235,0.19438791840859235
+Moderately severe,categorical__Little interest or pleasure in doing things_Nearly every day,-0.18975991909043535,0.18975991909043535
+Moderately severe,categorical__Feeling tired or having little energy_Nearly every day,-0.17636468620433343,0.17636468620433343
+Moderately severe,categorical__Study Pressure_Worst,-0.15372976901375407,0.15372976901375407
+Moderately severe,categorical__Feeling tired or having little energy_More than half the days,-0.14071541243689606,0.14071541243689606
+Moderately severe,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_More than half the days,-0.12609344526644384,0.12609344526644384
+Moderately severe,categorical__Sleep Quality_Good,0.12052041207030455,0.12052041207030455
+Moderately severe,categorical__Financial Pressure_Worst,-0.11548552186009989,0.11548552186009989
+Moderately severe,categorical__Feeling tired or having little energy_Several days,0.1143133242968296,0.1143133242968296
+Moderately severe,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_More than half the days,-0.10913239996994459,0.10913239996994459
+Moderately severe,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Several days,0.10775290366086948,0.10775290366086948
+Moderately severe,categorical__Study Pressure_Good,0.10641425462681708,0.10641425462681708
+Moderately severe,"categorical__Trouble falling or staying asleep, or sleeping too much_Several days",0.1054070517346739,0.1054070517346739
+Moderately severe,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Several days",0.10371777798626003,0.10371777798626003
+Moderately severe,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Several days,0.09622783598930709,0.09622783598930709
+Moderately severe,categorical__Little interest or pleasure in doing things_More than half the days,-0.08038398644522929,0.08038398644522929
+Moderately severe,categorical__Poor appetite or overeating_Several days,0.07428359253317675,0.07428359253317675
+Moderately severe,categorical__Poor appetite or overeating_More than half the days,-0.07394326874038214,0.07394326874038214
+Moderately severe,"categorical__Trouble falling or staying asleep, or sleeping too much_More than half the days",-0.06766814680279329,0.06766814680279329
+Moderately severe,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Several days,0.0639679223604223,0.0639679223604223
+Moderately severe,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_More than half the days",-0.060529264761508855,0.060529264761508855
+Moderately severe,categorical__Financial Pressure_Good,0.06034118507852951,0.06034118507852951
+Moderately severe,categorical__Study Pressure_Average,0.057634497391115855,0.057634497391115855
+Moderately severe,categorical__Little interest or pleasure in doing things_Several days,0.05307942661046163,0.05307942661046163
+Moderately severe,categorical__Sleep Quality_Worst,-0.05045210900854885,0.05045210900854885
+Moderately severe,"categorical__Feeling down, depressed, or hopeless_Several days",0.04865465408320632,0.04865465408320632
+Moderately severe,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_More than half the days,-0.04631816330691921,0.04631816330691921
+Moderately severe,categorical__Sleep Quality_Bad,-0.04388772836942467,0.04388772836942467
+Moderately severe,categorical__Financial Pressure_Average,0.04181756070314718,0.04181756070314718
+Moderately severe,categorical__Gender_Female,-0.040712411402038795,0.040712411402038795
+Moderately severe,categorical__Gender_Male,0.040712411402038795,0.040712411402038795
+Moderately severe,categorical__Sleep Quality_Average,-0.026180574692330955,0.026180574692330955
+Moderately severe,"categorical__Feeling down, depressed, or hopeless_More than half the days",-0.015519967418518674,0.015519967418518674
+Moderately severe,categorical__Financial Pressure_Bad,0.013326776078423197,0.013326776078423197
+Moderately severe,numeric__Age,0.011016181002919678,0.011016181002919678
+Moderately severe,categorical__Study Pressure_Bad,-0.010318983004178828,0.010318983004178828
+Severe,categorical__Little interest or pleasure in doing things_Not at all,0.5452539791814925,0.5452539791814925
+Severe,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Not at all,0.5101500309472387,0.5101500309472387
+Severe,"categorical__Trouble falling or staying asleep, or sleeping too much_Not at all",0.500819902229175,0.500819902229175
+Severe,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Nearly every day,-0.5001048217699741,0.5001048217699741
+Severe,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Not at all,0.49025027860847004,0.49025027860847004
+Severe,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Not at all",0.4639198898832415,0.4639198898832415
+Severe,"categorical__Trouble falling or staying asleep, or sleeping too much_Nearly every day",-0.46196941587738904,0.46196941587738904
+Severe,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Not at all,0.4598559760031995,0.4598559760031995
+Severe,"categorical__Feeling down, depressed, or hopeless_Not at all",0.4554762851982803,0.4554762851982803
+Severe,categorical__Feeling tired or having little energy_Not at all,0.4396510475151806,0.4396510475151806
+Severe,categorical__Little interest or pleasure in doing things_Nearly every day,-0.4391315733351351,0.4391315733351351
+Severe,"categorical__Feeling down, depressed, or hopeless_Nearly every day",-0.42922613208568594,0.42922613208568594
+Severe,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Nearly every day,-0.4109285091367113,0.4109285091367113
+Severe,categorical__Poor appetite or overeating_Not at all,0.33433912153135714,0.33433912153135714
+Severe,categorical__Poor appetite or overeating_More than half the days,-0.33356391298206645,0.33356391298206645
+Severe,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Nearly every day,-0.33088525967162175,0.33088525967162175
+Severe,categorical__Feeling tired or having little energy_More than half the days,-0.3214246611246054,0.3214246611246054
+Severe,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Nearly every day",-0.3147644951624933,0.3147644951624933
+Severe,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_More than half the days,-0.23918863772608004,0.23918863772608004
+Severe,categorical__Little interest or pleasure in doing things_More than half the days,-0.2331602151019081,0.2331602151019081
+Severe,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_More than half the days,-0.23285850897182944,0.23285850897182944
+Severe,categorical__Feeling bad about yourself—or that you are a failure or have let yourself or your family down_Several days,0.22914342854881464,0.22914342854881464
+Severe,categorical__Feeling tired or having little energy_Nearly every day,-0.21878655071952505,0.21878655071952505
+Severe,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_More than half the days",-0.21709021223785713,0.21709021223785713
+Severe,"categorical__Feeling down, depressed, or hopeless_More than half the days",-0.21420469118295832,0.21420469118295832
+Severe,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_More than half the days,-0.2139113381768366,0.2139113381768366
+Severe,"categorical__Feeling down, depressed, or hopeless_Several days",0.18795453807036366,0.18795453807036366
+Severe,"categorical__Trouble falling or staying asleep, or sleeping too much_More than half the days",-0.18786090010344714,0.18786090010344714
+Severe,categorical__Sleep Quality_Worst,-0.1741187657564741,0.1741187657564741
+Severe,categorical__Thoughts that you would be better off dead or of hurting yourself in some way_Several days,0.15353673950007063,0.15353673950007063
+Severe,"categorical__Trouble falling or staying asleep, or sleeping too much_Several days",0.1490104137516609,0.1490104137516609
+Severe,categorical__Little interest or pleasure in doing things_Several days,0.12703780925555042,0.12703780925555042
+Severe,categorical__Study Pressure_Worst,-0.10200495590043374,0.10200495590043374
+Severe,categorical__Feeling tired or having little energy_Several days,0.10056016432894954,0.10056016432894954
+Severe,categorical__Sleep Quality_Bad,0.09767037253986544,0.09767037253986544
+Severe,categorical__Study Pressure_Good,0.0902657288785278,0.0902657288785278
+Severe,categorical__Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual_Several days,0.08494062184525841,0.08494062184525841
+Severe,categorical__Study Pressure_Average,0.07236865239803825,0.07236865239803825
+Severe,"categorical__Trouble concentrating on things, such as reading the newspaper or watching television_Several days",0.06793481751710873,0.06793481751710873
+Severe,categorical__Sleep Quality_Good,0.06401136307041166,0.06401136307041166
+Severe,categorical__Study Pressure_Bad,-0.06062942537613247,0.06062942537613247
+Severe,categorical__Financial Pressure_Average,0.045740470709596026,0.045740470709596026
+Severe,categorical__Financial Pressure_Bad,-0.04114259812160226,0.04114259812160226
+Severe,categorical__Gender_Female,-0.040739928224317934,0.040739928224317934
+Severe,categorical__Gender_Male,0.04073992822431749,0.04073992822431749
+Severe,categorical__Financial Pressure_Worst,-0.039595961850152905,0.039595961850152905
+Severe,categorical__Financial Pressure_Good,0.03499808926215875,0.03499808926215875
+Severe,numeric__Age,-0.03360627460934501,0.03360627460934501
+Severe,categorical__Poor appetite or overeating_Nearly every day,-0.018442938820019208,0.018442938820019208
+Severe,categorical__Poor appetite or overeating_Several days,0.01766773027072821,0.01766773027072821
+Severe,categorical__Sleep Quality_Average,0.012437030146196904,0.012437030146196904
