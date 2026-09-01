@@ -281,54 +281,6 @@ DepressionRiskAI/
 
 **Tech stack:** Python, scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, Joblib.
 
-## Installation
-
-```bash
-git clone https://github.com/YOUR-USERNAME/DepressionRiskAI.git
-cd DepressionRiskAI
-```
-
-Create and activate a virtual environment (Windows):
-
-```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-```
-
-If PowerShell blocks the activation script, you can call the interpreter directly instead:
-
-```powershell
-.venv\Scripts\python.exe
-```
-
-Install dependencies:
-
-```powershell
-.venv\Scripts\python.exe -m pip install -r requirements.txt
-```
-
-## Running the App
-
-```powershell
-.venv\Scripts\python.exe -m streamlit run app.py
-```
-
-Streamlit will print a local URL, typically `http://localhost:8501`. Open it in your browser.
-
-## Running the Experiments
-
-```powershell
-.venv\Scripts\python.exe ml\analyze_dataset.py        # dataset inspection
-.venv\Scripts\python.exe ml\train_baseline.py          # logistic regression
-.venv\Scripts\python.exe ml\train_random_forest.py      # random forest
-.venv\Scripts\python.exe ml\train_svm.py                # SVM
-.venv\Scripts\python.exe ml\model_comparison.py         # compare all models
-.venv\Scripts\python.exe ml\cross_validation.py         # 5-fold CV
-.venv\Scripts\python.exe ml\tune_svm.py                 # hyperparameter tuning
-.venv\Scripts\python.exe ml\evaluate_final_model.py     # final test evaluation
-.venv\Scripts\python.exe ml\explain_model.py             # feature importance
-```
-
 ## Privacy
 
 This is a research demonstration. Avoid entering personally identifiable information into any experimental deployment. The app is not a clinical record or diagnostic service.
@@ -375,7 +327,3 @@ The reported 91.97% accuracy reflects performance on this project's held-out tes
 ## License
 
 Intended for educational and research use. Before any commercial or clinical use, obtain appropriate licensing, dataset permissions, ethical review, privacy protections, and professional validation. Check the dataset's own redistribution terms before publishing it in a public repository.
-
----
-
-*Built as part of an academic final-year research project on machine learning applied to questionnaire-based depression-severity classification.*
